@@ -1,1 +1,1 @@
-Many available actions to trigger
+Fully Disable Private Browsing
